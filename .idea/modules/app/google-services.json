@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "911958032609",
+    "firebase_url": "https://chemez-e5b29.firebaseio.com",
+    "project_id": "chemez-e5b29",
+    "storage_bucket": "chemez-e5b29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911958032609:android:5e10c3f2cd3de6bd8df7a0",
+        "android_client_info": {
+          "package_name": "com.example.chemez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911958032609-tr5v95hn653bj2q2lrslspsfhip3sphb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chemez",
+            "certificate_hash": "2139ba32ffd927525798f9bccc1555a780a591d3"
+          }
+        },
+        {
+          "client_id": "911958032609-068d4gqq09dfs93asci3efk9ctikli3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClKcE-wdXwBJd2eaLixiMuld9ukga0xmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911958032609-068d4gqq09dfs93asci3efk9ctikli3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
